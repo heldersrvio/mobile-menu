@@ -1,0 +1,19 @@
+{
+  "name": "@heldersrvio/mobilemenu",
+  "version": "1.0.0",
+  "description": "A Javascript mobile menu for use in external projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heldersrvio/MobileMenu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heldersrvio/MobileMenu/issues"
+  },
+  "homepage": "https://github.com/heldersrvio/MobileMenu#readme"
+}
